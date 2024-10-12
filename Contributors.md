@@ -14,5 +14,6 @@
 - [Muhammad Shahid](https://github.com/Muhammad-Shahid-Jamal)
 - [Yash Singh Chauhan](https://github.com/0xFTW)
 - [Sanjay Singha](https://github.com/makesanjoy)
+- [IAS-Hack] (https://github.com/IAS-Hack)
 
 [//]: # (End of the file)
